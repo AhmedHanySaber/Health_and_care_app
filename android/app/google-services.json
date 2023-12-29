@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "113719455885",
+    "firebase_url": "https://esp32-heartrate-default-rtdb.firebaseio.com",
+    "project_id": "esp32-heartrate",
+    "storage_bucket": "esp32-heartrate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113719455885:android:60632bee865f9f879772c4",
+        "android_client_info": {
+          "package_name": "com.example.capapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQRsJfHo7Q3utnFYG23cIbU6yfwjs40Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113719455885:android:d742f19478a5defd9772c4",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQRsJfHo7Q3utnFYG23cIbU6yfwjs40Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
